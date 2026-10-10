@@ -56,7 +56,7 @@ todo-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/zeedott/TODO-APP.git
 cd todo-app
 ```
 
